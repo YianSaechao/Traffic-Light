@@ -5,15 +5,14 @@
   text-align: center;
 }
 
-.main-div {
-  background-color: rgb(250, 249, 249);
+.main-div{
+  background-color: gray;
   display: flex;
   flex-direction: column;
-
 }
 
 .light{
-  background-color: gray;
+  background-color: white;
   height: 60px;
   width: 60px;
   border-radius: 50px;
