@@ -1,0 +1,32 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.main-div {
+  background-color: rgb(250, 249, 249);
+  display: flex;
+  flex-direction: column;
+
+}
+
+.light{
+  background-color: gray;
+  height: 60px;
+  width: 60px;
+  border-radius: 50px;
+  padding: 20px;
+  margin: 20px;
+  gap: 20px;
+}
+.active1{
+  background-color: green;
+}
+.active2 {
+  background-color: yellow;
+}
+.active3{
+   background-color: red;
+}
